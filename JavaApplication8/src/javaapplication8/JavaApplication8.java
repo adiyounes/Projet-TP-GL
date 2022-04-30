@@ -4,6 +4,9 @@
  */
 package javaapplication8;
 
+import static java.time.Clock.system;
+import static java.time.InstantSource.system;
+
 /**
  *
  * @author user
@@ -14,7 +17,7 @@ public class JavaApplication8 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      System.out.print("HI HI");
     }
     
 }
