@@ -20,6 +20,7 @@ public class JavaApplication8 {
       System.out.print("HI HI");
         System.out.print("NOOOOO");
         System.out.print("yeeees");
+        System.out.print("something");
     }
     
 }
