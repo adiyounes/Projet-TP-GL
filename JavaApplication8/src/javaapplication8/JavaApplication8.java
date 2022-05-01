@@ -18,6 +18,7 @@ public class JavaApplication8 {
      */
     public static void main(String[] args) {
       System.out.print("HI HI");
+        System.out.print("NOOOOO"):
     }
     
 }
